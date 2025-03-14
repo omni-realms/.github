@@ -40,6 +40,9 @@ This initial game will help us validate our core technologies:
 - Real-time multiplayer capabilities
 - Cross-scale physics engine
 
+## Complete Lineup
+For a complete line up of OmniRealms games visit [the game list page](game.md)
+
 ## Development Timeline
 
 ### Q2 2025: Alpha Phase 🔬

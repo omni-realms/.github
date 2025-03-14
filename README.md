@@ -41,7 +41,7 @@ This initial game will help us validate our core technologies:
 - Cross-scale physics engine
 
 ## Complete Lineup
-For a complete line up of OmniRealms games visit [the game list page](game.md)
+For a complete line up of OmniRealms games visit [the game list page](GAMES.md)
 
 ## Development Timeline
 

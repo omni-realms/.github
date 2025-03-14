@@ -1,5 +1,5 @@
-# Welcome to OmniRealms: A Multi-Scale Gaming Universe 🌌
-
+# Welcome to OmniRealms<br>A Multi-Scale Gaming Universe 🌌
+To signup visit [omnirealms.games](https://omnirealms.games)
 ## What is OmniRealms?
 
 OmniRealms is an ambitious gaming framework that enables seamless exploration across different scales of reality - from quantum to galactic levels. Built on cutting-edge Java technology and powered by jMonkeyEngine, OmniRealms isn't just a game - it's a platform for multiple interconnected educational and entertainment experiences.
